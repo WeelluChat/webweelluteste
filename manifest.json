@@ -1,6 +1,6 @@
 {
-    "name": "web_weellu_v1",
-    "short_name": "web_weellu_v1",
+    "name": "weellu_chat_web",
+    "short_name": "weellu_chat_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
